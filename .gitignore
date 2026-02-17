@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional, if large)
+data/*.csv
+data/*.parquet
+
+# OS
+.DS_Store
+
