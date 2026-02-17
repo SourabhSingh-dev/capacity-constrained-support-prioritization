@@ -38,7 +38,7 @@ Across 30 independent simulations:
 | Cooldown | 328.97 | 29.10 |
 | Urgency | 384.30 | 40.06 |
 
-![Cumulative Regret by Policy](03_evaluation/results_plots/regret_boxplot.png)
+![Cumulative Regret by Policy](evaluation/results_plots/output.png)
 
 ## Failure Analysis
 Naive urgency prioritization consistently underperforms random selection.
